@@ -1,0 +1,13 @@
+Boolean bool 0
+Character char 0
+Integer int 0
+Decimal double 0 
+Float double 0
+Table int* 0
+Text std::string <string> 
+Valueless void 0
+Point Point* "./Point.hh"
+Shape Shape* "./Shape.hh"
+Circle Circle* "./Circle.hh"
+Line Line* "./Line.hh"
+Triangle Triangle* "./Triangle"
